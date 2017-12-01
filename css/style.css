@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+
+}
+
+td{
+    border: 2px solid cornflowerblue;
+}
+
+th {
+    border: 1px dashed hotpink;
+}
+
+body{
+    background-image:url(oui.jpg);
+    background-repeat: no-repeat;
+    color:red;
+}
