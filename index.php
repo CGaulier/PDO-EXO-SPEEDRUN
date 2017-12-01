@@ -23,7 +23,7 @@ $stmt->execute();
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Zbleh</title>
+    <title>ZblehMa Vie bien bien</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
